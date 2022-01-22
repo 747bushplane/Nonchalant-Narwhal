@@ -25,6 +25,7 @@ ul {
 }
 li {
   float: left;
+  display: inline;
 }
 li a {
   display: inline-block;
